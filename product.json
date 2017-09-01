@@ -1,0 +1,114 @@
+[
+{
+  "products": [
+  {
+    "id": "1",
+    "product_id": "632910392",
+    "title": "Lenova 80.",
+    "price": "934.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis molestias necessitatibus asperiores voluptate, incidunt fugit harum nemo fuga deserunt distinctio. Inventore laboriosam maiores quod pariatur necessitatibus, vitae quo sequi! Recusandae!"
+  },
+  {
+    "id": "2",
+    "product_id": "632910392",
+    "title": "Red 67",
+    "price": "1990.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint amet ipsum ducimus quidem ratione quia maiores atque eum, dolor saepe, vel, facere, delectus quos facilis! Maiores soluta blanditiis praesentium unde!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odio voluptas delectus minus quae alias voluptates rem ex dolores pariatur, quasi deleniti! Dolor deserunt nostrum itaque aspernatur voluptatibus nobis incidunt earum."
+  },
+  {
+    "id": "3",
+    "product_id": "632910392",
+    "title": "Iphone 7S",
+    "price": "899.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus nam quos, aliquam. Facere saepe harum libero sequi consectetur quaerat, necessitatibus excepturi repudiandae recusandae, ea doloremque voluptas quibusdam perspiciatis voluptates optio!"
+  },
+  {
+    "id": "4",
+    "product_id": "632910392",
+    "title": "LG New ",
+    "price": "299999.99",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam incidunt ut tenetur, minus cumque velit placeat mollitia, quam natus modi molestias blanditiis, voluptatibus nobis excepturi magnam odit quo consequatur a."
+  },
+  {
+    "id": "5",
+    "product_id": "632910392",
+    "title": "Some Phone",
+    "price": "199.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid velit, necessitatibus distinctio dolore sapiente quas non exercitationem dolorum incidunt labore, cumque expedita molestiae. Vel incidunt officiis odio tempore beatae magni!"
+  },
+  {
+    "id": "6",
+    "product_id": "632910392",
+    "title": "Hiroku",
+    "price": "468.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta, amet, fugit. Maxime similique eius nulla suscipit ea, debitis, nemo beatae, molestias est qui nesciunt! Commodi a delectus qui ut saepe."
+  },
+  {
+    "id": "7",
+    "product_id": "632910392",
+    "title": "Nokia 1100",
+    "price": "56.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur debitis nemo ipsum itaque impedit architecto totam voluptas iure minima quasi facilis quo corrupti earum quae voluptate, amet, doloribus assumenda possimus."
+  },
+  {
+    "id": "8",
+    "product_id": "632910392",
+    "title": "Lorem",
+    "price": "350.00",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis necessitatibus obcaecati inventore laudantium possimus sed dolor optio aspernatur autem accusantium atque iure dolorem odio, tempore amet earum, tenetur. Similique, nemo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque ea, reiciendis! Reprehenderit aliquid quod cum ad earum quo, sed sequi, impedit, tempora deleniti accusamus, aperiam! Et repudiandae dignissimos vitae aspernatur.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis necessitatibus obcaecati inventore laudantium possimus sed dolor optio aspernatur autem accusantium atque iure dolorem odio, tempore amet earum, tenetur. Similique, nemo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque ea, reiciendis! Reprehenderit aliquid quod cum ad earum quo, sed sequi, impedit, tempora deleniti accusamus, aperiam! Et repudiandae dignissimos vitae aspernatur."
+  },
+  {
+    "id": "9",
+    "product_id": "632910392",
+    "title": "Red ipsum.",
+    "price": "2.99",
+    "position": 2,
+    "grams": 567,
+    "created_at": "2017-07-24T19:09:43-04:00",
+    "updated_at": "2017-07-24T19:09:43-04:00",
+    "image_id": "http://newbranding.ru/wp-content/uploads/2011/10/apple.png",
+    "full_information": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum quibusdam culpa laborum tenetur modi debitis vero, non maiores porro repellat quas ullam nemo dolorem placeat. Harum laborum et blanditiis libero."
+  }]
+
+
+}]
